@@ -1,0 +1,27 @@
+.lab{
+    font-size: 25px;
+    color: rgb(57, 5, 106);
+    font-style: oblique;
+}
+.fname2{
+    border-color:rgb(57, 5, 106);
+}
+.boxes {
+    margin:50px;
+ }
+ .box {
+    display:inline-block;
+    width:300px;
+    height:10em;
+    text-align:center;
+    line-height: 2rem;
+    color:#fff;
+    justify-content: center;
+    align-content: center;
+ }
+ .one { background:#333;	}
+ .boxes .box span{
+     color: gold;
+     font-style: oblique;
+     font-size: 15px;
+ }
